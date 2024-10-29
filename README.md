@@ -47,11 +47,11 @@ The Collatz conjecture continues to fascinate mathematicians and puzzle enthusia
 
 References:
 
-[1] https://simple.wikipedia.org/wiki/Collatz_conjecture
-[2] https://testbook.com/maths/collatz-conjecture
-[3] https://terrytao.files.wordpress.com/2020/02/collatz.pdf
-[4] https://github.com/StephenDsouza90/python-collatz
-[5] https://en.wikipedia.org/wiki/Collatz_conjecture
-[6] https://study.com/academy/lesson/history-of-the-collatz-conjecture.html
-[7] https://pubs.sciepub.com/ajams/9/3/5/index.html
-[8] https://vixra.org/pdf/2202.0064v1.pdf
+- [1] https://simple.wikipedia.org/wiki/Collatz_conjecture
+- [2] https://testbook.com/maths/collatz-conjecture
+- [3] https://terrytao.files.wordpress.com/2020/02/collatz.pdf
+- [4] https://github.com/StephenDsouza90/python-collatz
+- [5] https://en.wikipedia.org/wiki/Collatz_conjecture
+- [6] https://study.com/academy/lesson/history-of-the-collatz-conjecture.html
+- [7] https://pubs.sciepub.com/ajams/9/3/5/index.html
+- [8] https://vixra.org/pdf/2202.0064v1.pdf
