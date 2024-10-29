@@ -1,0 +1,23 @@
+[project]
+name = "collatz-conjecture"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Michael Booth", email = "michael@databooth.com.au"},
+]
+dependencies = [
+    "plotly>=5.24.1",
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "DataBooth"}
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.dev-dependencies]
+notebook = [
+    "notebook>=7.2.2",
+    "ipykernel>=6.29.5",
+]
